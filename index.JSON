@@ -1,0 +1,72 @@
+[
+  {
+    "brand": "Apple",
+    "model": "iPhone 14",
+    "price": 999,
+    "category": "Flagship"
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy S23",
+    "price": 899,
+    "category": "Flagship"
+  },
+  {
+    "brand": "Google",
+    "model": "Pixel 7",
+    "price": 799,
+    "category": "Flagship"
+  },
+  {
+    "brand": "OnePlus",
+    "model": "OnePlus 11",
+    "price": 699,
+    "category": "Flagship"
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "Mi 13",
+    "price": 599,
+    "category": "Mid-range"
+  },
+  {
+    "brand": "Realme",
+    "model": "GT Neo 5",
+    "price": 449,
+    "category": "Mid-range"
+  },
+  {
+    "brand": "Motorola",
+    "model": "Edge 30",
+    "price": 499,
+    "category": "Mid-range"
+  },
+  {
+    "brand": "Sony",
+    "model": "Xperia 1 IV",
+    "price": 1299,
+    "category": "Flagship"
+  },
+  { "brand": "Oppo", "model": "Find X5", "price": 749, "category": "Flagship" },
+  { "brand": "Vivo", "model": "X90", "price": 699, "category": "Flagship" },
+  {
+    "brand": "Asus",
+    "model": "ROG Phone 7",
+    "price": 999,
+    "category": "Gaming"
+  },
+  { "brand": "Nokia", "model": "X30", "price": 399, "category": "Budget" },
+  {
+    "brand": "Lenovo",
+    "model": "Legion Y90",
+    "price": 699,
+    "category": "Gaming"
+  },
+  {
+    "brand": "Huawei",
+    "model": "P50 Pro",
+    "price": 899,
+    "category": "Flagship"
+  },
+  { "brand": "ZTE", "model": "Axon 40", "price": 799, "category": "Flagship" }
+]
